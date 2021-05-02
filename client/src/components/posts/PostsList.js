@@ -16,7 +16,7 @@ import {
 function PostsList(props) {
   return (
     <List {...props}>
-      <Datagrid>
+      <Datagrid title="Dine poster">
         <TextField source="id"></TextField>
         <TextField source="title"></TextField>
         <DateField source="publisert"></DateField>

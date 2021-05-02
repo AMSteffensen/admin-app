@@ -2,7 +2,7 @@ import React from "react";
 import { Edit, SimpleForm, TextInput, DateInput } from "react-admin";
 function PostsEdit(props) {
   return (
-    <Edit title="Edit a post" {...props}>
+    <Edit title="Endre en post" {...props}>
       <SimpleForm>
         <TextInput disabled source="id"></TextInput>
         <TextInput source="title"></TextInput>
