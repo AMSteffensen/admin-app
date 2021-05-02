@@ -1,6 +1,7 @@
 {
   "name": "qualisoft",
   "proxy": "http://localhost:5000",
+  "homepage": "http://amsteffensen.github.io/https://github.com/AMSteffensen/admin-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
