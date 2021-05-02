@@ -1,34 +1,22 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "melding 1",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
-      "publisert": "10-02-2020"
-    },
-    {
-      "id": "2",
-      "title": "melding 2",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
-      "publisert": "10-02-2020"
-    },
-    {
-      "id": "3",
-      "title": "melding 3",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
-      "publisert": "10-02-2020"
-    },
-    {
-      "id": "4",
-      "title": "melding 4",
-      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
-      "publisert": "10-02-2020"
-    },
-    {
       "title": "post four!",
       "body": "this is post four",
-      "publisert": "10-02-2020",
+      "publisert": "2020-10-02",
       "id": "4"
+    },
+    {
+      "title": "Har det bare bra",
+      "body": "Jeg har det bare bra idag",
+      "publisert": "10/12/20",
+      "id": "T_tiqi_"
+    },
+    {
+      "title": "Gårdagen",
+      "body": "Jeg har det enda bedre idag",
+      "publisert": "2021-05-04",
+      "id": "4c-BWsg"
     }
   ],
   "users": [
