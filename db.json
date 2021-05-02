@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "melding 1",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
+      "publisert": "10-02-2020"
+    },
+    {
+      "id": "2",
+      "title": "melding 2",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
+      "publisert": "10-02-2020"
+    },
+    {
+      "id": "3",
+      "title": "melding 3",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
+      "publisert": "10-02-2020"
+    },
+    {
+      "id": "4",
+      "title": "melding 4",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque enim nostrum harum exercitationem possimus repudiandae.",
+      "publisert": "10-02-2020"
+    },
+    {
+      "title": "post four!",
+      "body": "this is post four",
+      "publisert": "10-02-2020",
+      "id": "4"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Andreas Steffensen",
+      "email": "andreas@steffensen.com"
+    },
+    {
+      "id": "2",
+      "name": "Ivar Frank",
+      "email": "frank@ivar.com"
+    },
+    {
+      "id": "3",
+      "name": "Ingrid Marie",
+      "email": "marie@ingrid.com"
+    }
+  ]
+}
