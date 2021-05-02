@@ -1,4 +1,4 @@
-Deployed to: http://amsteffensen.me/admin-app/
+Deployed to Heroku: https://happylog.herokuapp.com/
 
 Setup local dev env:
 

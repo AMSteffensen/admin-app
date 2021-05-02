@@ -1,22 +1,22 @@
 {
   "posts": [
     {
-      "title": "post four!",
-      "body": "this is post four",
-      "publisert": "2020-10-02",
-      "id": "4"
-    },
-    {
-      "title": "Har det bare bra",
-      "body": "Jeg har det bare bra idag",
-      "publisert": "10/12/20",
-      "id": "T_tiqi_"
-    },
-    {
-      "title": "Gårdagen",
-      "body": "Jeg har det enda bedre idag",
+      "title": "Gårdagen!",
+      "body": "Jeg har det enda bedre idag!",
       "publisert": "2021-05-04",
       "id": "4c-BWsg"
+    },
+    {
+      "title": "morgen dagen",
+      "body": "jeg skal ut på butikken",
+      "publisert": "2021-05-04",
+      "id": "8SRg5Mh"
+    },
+    {
+      "title": "hallo",
+      "body": "Jeg har det bedre en de fleste her til stede..",
+      "publisert": "2021-05-06",
+      "id": "ut4p1IV"
     }
   ],
   "users": [
